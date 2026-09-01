@@ -1,0 +1,81 @@
+menu_id,school,menu_name,meal_period,primary_allergen,secondary_allergen,servings_planned,menu_status
+MENU-0001,Maple Grove,Pancake Breakfast #2,Snack,none,egg,392,Planned
+MENU-0002,Lakeside,Fruit Yogurt #3,Lunch,sesame,fish,331,Served
+MENU-0003,Sunrise,Nut-Free Granola #4,Snack,wheat,fish,262,Served
+MENU-0004,Maple Grove,Bean Tacos #5,Breakfast,none,milk,234,Review
+MENU-0005,Lakeside,Vegetable Pasta #6,Lunch,tree_nut,fish,47,Review
+MENU-0006,Riverside,Vegetable Pasta #7,Breakfast,soy,egg,359,Served
+MENU-0007,Greenfield,Fruit Yogurt #8,Breakfast,none,none,279,Served
+MENU-0008,Sunrise,Nut-Free Granola #9,Snack,tree_nut,wheat,60,Served
+MENU-0009,Lakeside,Pancake Breakfast #10,Snack,none,soy,250,Served
+MENU-0010,Lakeside,Sesame Noodles #11,Lunch,none,tree_nut,118,Served
+MENU-0011,Riverside,Pancake Breakfast #12,Breakfast,wheat,none,295,Served
+MENU-0012,Greenfield,Chicken Rice Bowl #1,Snack,soy,egg,74,Served
+MENU-0013,Oak Valley,Fruit Yogurt #2,Breakfast,sesame,egg,136,Served
+MENU-0014,Riverside,Pancake Breakfast #3,Lunch,wheat,soy,416,Served
+MENU-0015,Greenfield,Fruit Yogurt #4,Snack,fish,shellfish,146,Served
+MENU-0016,Sunrise,Nut-Free Granola #5,Breakfast,soy,peanut,166,Served
+MENU-0017,Oak Valley,Chicken Rice Bowl #6,Breakfast,shellfish,soy,179,Served
+MENU-0018,Sunrise,Chicken Rice Bowl #7,Snack,egg,shellfish,47,Review
+MENU-0019,Maple Grove,Chicken Rice Bowl #8,Lunch,shellfish,tree_nut,292,Served
+MENU-0020,Greenfield,Fruit Yogurt #9,Lunch,peanut,soy,335,Served
+MENU-0021,Riverside,Fish Curry #10,Lunch,egg,none,47,Planned
+MENU-0022,Sunrise,Chicken Rice Bowl #11,Snack,milk,sesame,180,Served
+MENU-0023,Riverside,Chicken Rice Bowl #12,Snack,none,none,145,Review
+MENU-0024,Greenfield,Fruit Yogurt #1,Breakfast,fish,none,57,Served
+MENU-0025,Maple Grove,Bean Tacos #2,Breakfast,fish,wheat,41,Served
+MENU-0026,Oak Valley,Bean Tacos #3,Breakfast,peanut,tree_nut,293,Served
+MENU-0027,Maple Grove,Chicken Rice Bowl #4,Snack,tree_nut,soy,419,Served
+MENU-0028,Maple Grove,Fish Curry #5,Breakfast,none,sesame,88,Served
+MENU-0029,Riverside,Sesame Noodles #6,Breakfast,soy,tree_nut,175,Served
+MENU-0030,Greenfield,Nut-Free Granola #7,Snack,wheat,egg,229,Served
+MENU-0031,Lakeside,Chicken Rice Bowl #8,Snack,none,fish,237,Planned
+MENU-0032,Oak Valley,Vegetable Pasta #9,Lunch,soy,shellfish,221,Served
+MENU-0033,Oak Valley,Vegetable Pasta #10,Snack,soy,fish,189,Planned
+MENU-0034,Lakeside,Chicken Rice Bowl #11,Lunch,soy,shellfish,385,Served
+MENU-0035,Oak Valley,Nut-Free Granola #12,Breakfast,peanut,shellfish,109,Served
+MENU-0036,Lakeside,Bean Tacos #1,Breakfast,milk,shellfish,399,Served
+MENU-0037,Sunrise,Fish Curry #2,Snack,shellfish,none,381,Served
+MENU-0038,Greenfield,Vegetable Pasta #3,Breakfast,sesame,wheat,310,Planned
+MENU-0039,Oak Valley,Pancake Breakfast #4,Breakfast,milk,wheat,232,Planned
+MENU-0040,Lakeside,Pancake Breakfast #5,Lunch,none,none,323,Planned
+MENU-0041,Maple Grove,Nut-Free Granola #6,Breakfast,sesame,wheat,273,Served
+MENU-0042,Oak Valley,Vegetable Pasta #7,Breakfast,milk,soy,324,Planned
+MENU-0043,Sunrise,Nut-Free Granola #8,Snack,milk,peanut,352,Served
+MENU-0044,Riverside,Nut-Free Granola #9,Snack,wheat,egg,288,Served
+MENU-0045,Riverside,Nut-Free Granola #10,Breakfast,none,sesame,309,Served
+MENU-0046,Oak Valley,Bean Tacos #11,Breakfast,wheat,fish,344,Planned
+MENU-0047,Riverside,Bean Tacos #12,Lunch,tree_nut,peanut,268,Served
+MENU-0048,Oak Valley,Chicken Rice Bowl #1,Snack,sesame,soy,176,Planned
+MENU-0049,Oak Valley,Nut-Free Granola #2,Lunch,none,fish,80,Planned
+MENU-0050,Lakeside,Sesame Noodles #3,Breakfast,tree_nut,soy,362,Served
+MENU-0051,Sunrise,Pancake Breakfast #4,Lunch,none,tree_nut,325,Served
+MENU-0052,Greenfield,Fish Curry #5,Breakfast,peanut,fish,399,Served
+MENU-0053,Greenfield,Fruit Yogurt #6,Breakfast,soy,shellfish,310,Planned
+MENU-0054,Maple Grove,Chicken Rice Bowl #7,Lunch,soy,tree_nut,54,Planned
+MENU-0055,Oak Valley,Bean Tacos #8,Breakfast,tree_nut,wheat,244,Review
+MENU-0056,Greenfield,Sesame Noodles #9,Breakfast,milk,egg,64,Review
+MENU-0057,Maple Grove,Sesame Noodles #10,Lunch,wheat,fish,44,Served
+MENU-0058,Riverside,Fish Curry #11,Snack,shellfish,peanut,193,Review
+MENU-0059,Lakeside,Chicken Rice Bowl #12,Snack,wheat,none,65,Planned
+MENU-0060,Maple Grove,Vegetable Pasta #1,Lunch,egg,sesame,359,Served
+MENU-0061,Greenfield,Sesame Noodles #2,Breakfast,none,shellfish,98,Served
+MENU-0062,Sunrise,Bean Tacos #3,Breakfast,none,wheat,324,Planned
+MENU-0063,Oak Valley,Vegetable Pasta #4,Snack,wheat,peanut,41,Served
+MENU-0064,Sunrise,Sesame Noodles #5,Breakfast,fish,shellfish,263,Planned
+MENU-0065,Oak Valley,Chicken Rice Bowl #6,Breakfast,none,soy,44,Planned
+MENU-0066,Lakeside,Pancake Breakfast #7,Breakfast,none,none,371,Served
+MENU-0067,Lakeside,Chicken Rice Bowl #8,Snack,egg,none,220,Planned
+MENU-0068,Greenfield,Sesame Noodles #9,Lunch,none,soy,182,Served
+MENU-0069,Maple Grove,Bean Tacos #10,Lunch,sesame,wheat,353,Served
+MENU-0070,Sunrise,Chicken Rice Bowl #11,Lunch,none,none,110,Planned
+MENU-0071,Oak Valley,Sesame Noodles #12,Lunch,peanut,fish,217,Served
+MENU-0072,Riverside,Fish Curry #1,Snack,wheat,fish,131,Served
+MENU-0073,Riverside,Pancake Breakfast #2,Snack,egg,peanut,139,Served
+MENU-0074,Greenfield,Fruit Yogurt #3,Lunch,fish,wheat,347,Review
+MENU-0075,Oak Valley,Fish Curry #4,Lunch,sesame,wheat,303,Review
+MENU-0076,Oak Valley,Sesame Noodles #5,Snack,wheat,shellfish,393,Served
+MENU-0077,Sunrise,Fruit Yogurt #6,Snack,wheat,soy,324,Review
+MENU-0078,Oak Valley,Sesame Noodles #7,Snack,fish,shellfish,244,Review
+MENU-0079,Greenfield,Chicken Rice Bowl #8,Snack,fish,tree_nut,394,Served
+MENU-0080,Riverside,Sesame Noodles #9,Lunch,none,shellfish,378,Served

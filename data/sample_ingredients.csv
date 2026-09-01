@@ -1,0 +1,91 @@
+ingredient_id,ingredient_name,form,declared_allergen,supplier_verification,storage_profile,handling_steps,storage_area
+ING-0001,Ingredient 001,Prepared,sesame,Verified,Shared,3,Room A
+ING-0002,Ingredient 002,Fresh,milk,Verified,Shared,3,Room A
+ING-0003,Ingredient 003,Dry,fish,Unverified,Dedicated,4,Room A
+ING-0004,Ingredient 004,Frozen,sesame,Verified,Shared,3,Dry Store
+ING-0005,Ingredient 005,Dry,milk,Needs Review,Shared,1,Room B
+ING-0006,Ingredient 006,Fresh,tree_nut,Needs Review,Dedicated,3,Room A
+ING-0007,Ingredient 007,Dry,none,Unverified,Mixed,2,Room A
+ING-0008,Ingredient 008,Frozen,fish,Verified,Shared,4,Room A
+ING-0009,Ingredient 009,Frozen,none,Verified,Shared,4,Dry Store
+ING-0010,Ingredient 010,Dry,milk,Verified,Shared,1,Room B
+ING-0011,Ingredient 011,Frozen,egg,Verified,Dedicated,3,Dry Store
+ING-0012,Ingredient 012,Prepared,none,Verified,Mixed,4,Dry Store
+ING-0013,Ingredient 013,Dry,shellfish,Verified,Dedicated,3,Room B
+ING-0014,Ingredient 014,Prepared,none,Verified,Shared,2,Cold Store
+ING-0015,Ingredient 015,Prepared,milk,Verified,Shared,1,Dry Store
+ING-0016,Ingredient 016,Fresh,sesame,Verified,Shared,2,Dry Store
+ING-0017,Ingredient 017,Fresh,none,Verified,Mixed,4,Room A
+ING-0018,Ingredient 018,Prepared,tree_nut,Verified,Shared,2,Room B
+ING-0019,Ingredient 019,Fresh,shellfish,Verified,Shared,3,Dry Store
+ING-0020,Ingredient 020,Prepared,soy,Unverified,Shared,4,Room A
+ING-0021,Ingredient 021,Frozen,fish,Verified,Shared,4,Room B
+ING-0022,Ingredient 022,Dry,soy,Verified,Mixed,1,Cold Store
+ING-0023,Ingredient 023,Frozen,peanut,Needs Review,Shared,2,Room A
+ING-0024,Ingredient 024,Frozen,none,Verified,Dedicated,1,Dry Store
+ING-0025,Ingredient 025,Frozen,none,Verified,Shared,3,Room B
+ING-0026,Ingredient 026,Fresh,fish,Unverified,Shared,4,Room B
+ING-0027,Ingredient 027,Dry,none,Verified,Mixed,3,Cold Store
+ING-0028,Ingredient 028,Dry,none,Verified,Shared,3,Dry Store
+ING-0029,Ingredient 029,Fresh,none,Verified,Shared,2,Cold Store
+ING-0030,Ingredient 030,Frozen,wheat,Verified,Shared,1,Room B
+ING-0031,Ingredient 031,Fresh,tree_nut,Verified,Dedicated,1,Room A
+ING-0032,Ingredient 032,Dry,none,Verified,Shared,1,Room A
+ING-0033,Ingredient 033,Frozen,none,Verified,Dedicated,1,Room A
+ING-0034,Ingredient 034,Frozen,none,Needs Review,Shared,4,Room B
+ING-0035,Ingredient 035,Frozen,soy,Verified,Shared,4,Room A
+ING-0036,Ingredient 036,Dry,soy,Unverified,Dedicated,2,Room A
+ING-0037,Ingredient 037,Fresh,egg,Verified,Shared,2,Cold Store
+ING-0038,Ingredient 038,Frozen,tree_nut,Unverified,Shared,1,Room A
+ING-0039,Ingredient 039,Dry,soy,Verified,Shared,3,Dry Store
+ING-0040,Ingredient 040,Fresh,peanut,Verified,Shared,4,Room A
+ING-0041,Ingredient 041,Frozen,wheat,Verified,Shared,2,Room B
+ING-0042,Ingredient 042,Frozen,none,Verified,Dedicated,2,Room B
+ING-0043,Ingredient 043,Frozen,none,Verified,Shared,3,Room B
+ING-0044,Ingredient 044,Prepared,shellfish,Verified,Shared,2,Room A
+ING-0045,Ingredient 045,Prepared,none,Verified,Shared,4,Cold Store
+ING-0046,Ingredient 046,Fresh,peanut,Verified,Dedicated,4,Room A
+ING-0047,Ingredient 047,Prepared,soy,Unverified,Shared,4,Room B
+ING-0048,Ingredient 048,Dry,none,Verified,Shared,3,Dry Store
+ING-0049,Ingredient 049,Fresh,peanut,Verified,Shared,4,Room A
+ING-0050,Ingredient 050,Prepared,sesame,Verified,Mixed,2,Dry Store
+ING-0051,Ingredient 051,Prepared,sesame,Unverified,Shared,2,Room A
+ING-0052,Ingredient 052,Fresh,none,Needs Review,Shared,3,Room B
+ING-0053,Ingredient 053,Frozen,none,Needs Review,Dedicated,3,Cold Store
+ING-0054,Ingredient 054,Dry,none,Verified,Dedicated,4,Room B
+ING-0055,Ingredient 055,Fresh,fish,Needs Review,Shared,1,Cold Store
+ING-0056,Ingredient 056,Dry,egg,Unverified,Shared,1,Room B
+ING-0057,Ingredient 057,Dry,sesame,Needs Review,Shared,1,Room A
+ING-0058,Ingredient 058,Fresh,peanut,Needs Review,Shared,4,Room A
+ING-0059,Ingredient 059,Frozen,egg,Verified,Mixed,3,Dry Store
+ING-0060,Ingredient 060,Prepared,tree_nut,Needs Review,Dedicated,3,Cold Store
+ING-0061,Ingredient 061,Fresh,none,Verified,Mixed,2,Cold Store
+ING-0062,Ingredient 062,Frozen,none,Needs Review,Shared,1,Cold Store
+ING-0063,Ingredient 063,Frozen,none,Verified,Shared,3,Room B
+ING-0064,Ingredient 064,Dry,none,Verified,Shared,3,Cold Store
+ING-0065,Ingredient 065,Frozen,none,Needs Review,Dedicated,4,Dry Store
+ING-0066,Ingredient 066,Frozen,none,Verified,Dedicated,1,Room B
+ING-0067,Ingredient 067,Fresh,none,Unverified,Shared,4,Room B
+ING-0068,Ingredient 068,Fresh,soy,Unverified,Shared,1,Dry Store
+ING-0069,Ingredient 069,Dry,sesame,Unverified,Mixed,4,Room A
+ING-0070,Ingredient 070,Fresh,none,Verified,Shared,3,Cold Store
+ING-0071,Ingredient 071,Fresh,none,Verified,Shared,1,Room A
+ING-0072,Ingredient 072,Fresh,wheat,Verified,Shared,2,Room B
+ING-0073,Ingredient 073,Fresh,tree_nut,Verified,Shared,2,Room A
+ING-0074,Ingredient 074,Dry,none,Verified,Shared,1,Dry Store
+ING-0075,Ingredient 075,Prepared,none,Verified,Shared,1,Room A
+ING-0076,Ingredient 076,Frozen,none,Verified,Shared,2,Cold Store
+ING-0077,Ingredient 077,Prepared,shellfish,Verified,Shared,1,Room A
+ING-0078,Ingredient 078,Prepared,egg,Unverified,Dedicated,3,Room A
+ING-0079,Ingredient 079,Dry,wheat,Needs Review,Shared,2,Cold Store
+ING-0080,Ingredient 080,Frozen,soy,Needs Review,Shared,2,Dry Store
+ING-0081,Ingredient 081,Fresh,sesame,Unverified,Mixed,1,Room B
+ING-0082,Ingredient 082,Fresh,egg,Verified,Mixed,3,Dry Store
+ING-0083,Ingredient 083,Dry,fish,Verified,Shared,4,Dry Store
+ING-0084,Ingredient 084,Dry,none,Verified,Shared,4,Room B
+ING-0085,Ingredient 085,Dry,sesame,Verified,Shared,4,Cold Store
+ING-0086,Ingredient 086,Dry,milk,Needs Review,Shared,3,Room A
+ING-0087,Ingredient 087,Frozen,none,Verified,Shared,3,Room A
+ING-0088,Ingredient 088,Prepared,wheat,Verified,Dedicated,2,Cold Store
+ING-0089,Ingredient 089,Prepared,sesame,Verified,Shared,3,Room B
+ING-0090,Ingredient 090,Frozen,soy,Verified,Shared,1,Cold Store
